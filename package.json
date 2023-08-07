@@ -2,6 +2,7 @@
   "name": "chat-bot-app",
   "version": "0.1.0",
   "private": true,
+  "author": "lsjappdev",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
